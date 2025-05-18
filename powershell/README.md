@@ -1,5 +1,5 @@
 
-![head]([images/powershell.png](https://github.com/mmarcode/dotfiles/blob/main/images/powershell.png))
+![head](https://github.com/mmarcode/dotfiles/blob/main/images/powershell.png)
 
 ## PowerShell setup
 
