@@ -1,4 +1,4 @@
-<img src="images/powershell.png"></img>
+![head](https://github.com/mmarcode/dotfiles/blob/main/images/powershell.png)
 
 ## PowerShell setup
 
