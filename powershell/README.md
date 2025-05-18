@@ -1,12 +1,15 @@
-![head](https://github.com/mmarcode/dotfiles/blob/main/images/powershell.png)
+<img src="images/powershell.png"></img>
+
 ## PowerShell setup
 
 - [Hack (NerdFonts)](https://github.com/ryanoasis/nerd-fonts), A powerline-patched font
-- [Scoop](https://starship.rs/), A command-line installer for Windows
+- [Scoop](https://scoop.sh/), A command-line installer for Windows
 - [Starship](https://starship.rs/), The minimal, blazing-fast, and infinitely customizable prompt for any shell
 - [Terminal Icons](https://github.com/devblackops/Terminal-Icons), Module to show file and folder icons in the terminal
 - [Fzf, PSFzf](https://github.com/kelleyma49/PSFzf), Module that wraps fzf, a fuzzy file finder for the command line
 - [PSReadLine](https://docs.microsoft.com/en-us/powershell/module/psreadline/?view=powershell-7.2), Module contains cmdlets that let you customize the command-line editing environment
+
+
 ## Folder structure
 ```
 ~\Documents
